@@ -1,2 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corgifist&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corgifist&theme=dark)
+## Currently working on [Raster](https://github.com/corgifist/raster)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
